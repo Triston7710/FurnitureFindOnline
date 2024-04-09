@@ -26,3 +26,9 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![image](https://github.com/Triston7710/FurnitureFindOnline/assets/140479401/ba489799-5a8e-40ab-9b22-66c10226e6a7)
+![image](https://github.com/Triston7710/FurnitureFindOnline/assets/140479401/5f08f260-a06b-4579-b8c8-0893eb155334)
+![image](https://github.com/Triston7710/FurnitureFindOnline/assets/140479401/34efbbfb-18ba-4811-9420-bdffe14c2367)
+![image](https://github.com/Triston7710/FurnitureFindOnline/assets/140479401/89a5b397-4036-4118-8a16-4838bac15993)
+![image](https://github.com/Triston7710/FurnitureFindOnline/assets/140479401/5859dd76-6254-45b9-8b06-70d448b82730)
+
